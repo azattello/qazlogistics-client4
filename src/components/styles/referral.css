@@ -1,0 +1,89 @@
+.referral-section {
+    background-color: #ffffff;
+    padding: 25px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.bonus-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F800C;
+    color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bonus-amount {
+    font-size: 32px;
+}
+
+.referral-link-section {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.referral-link-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+    padding: 15px 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.referral-link-box span {
+    flex: 1;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.referral-link-box button {
+    margin-top: 10px ;
+    padding: 5px 10px;
+    background-color: #ff6b6b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.referrals-list {
+    margin-top: 30px;
+}
+
+.referrals-list h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.referrals-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.referrals-list li {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 15px;
+}
+
+.referrals-list p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 16px;
+}
